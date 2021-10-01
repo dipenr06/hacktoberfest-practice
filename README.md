@@ -267,6 +267,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Dušan Tanasić](https://github.com/Duk4/)
+  - [Dipen Rikame](https://github.com/dipenr06/)
 
 - ### **E**
 
